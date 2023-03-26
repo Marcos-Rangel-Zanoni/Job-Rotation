@@ -9,9 +9,12 @@
 ## }
 ## imprimir(SOMA);
 ## Ao final do processamento, qual será o valor da variável SOMA?
-### 1) O valor da variável SOMA será 91. <a href("https://github.com/Marcos-Rangel-Zanoni/Job-Rotation/blob/main/1.py") > </a>
+
+### 1) O valor da variável SOMA será 91. <a href="https://github.com/Marcos-Rangel-Zanoni/Job-Rotation/blob/main/1.py "> Lógica EX1 </a> 
 
 ## 2) Dado a sequência de Fibonacci, onde se inicia por 0 e 1 e o próximo valor sempre será a soma dos 2 valores anteriores (exemplo: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34...), escreva um programa na linguagem que desejar onde, informado um número, ele calcule a sequência de Fibonacci e retorne uma mensagem avisando se o número informado pertence ou não a sequência.
+
+### <a href="https://github.com/Marcos-Rangel-Zanoni/Job-Rotation/blob/main/2.py "> Lógica EX2 </a> 
 
 ## 3) Descubra a lógica e complete o próximo elemento:
 
@@ -27,7 +30,11 @@
 
 ## f) 2,10, 12, 16, 17, 18, 19, ____
 
-### 4) O caminhão pois o destino dele é para Ribeirão Preto, de acordo com os dados tratados e executado os calculos presente no 4.py
+### <a href="https://github.com/Marcos-Rangel-Zanoni/Job-Rotation/blob/main/3.py "> Lógica EX3 </a>
+
+### 4) O caminhão pois o destino dele é para Ribeirão Preto, de acordo com os dados tratados e executado os calculos.
+
+### <a href="https://github.com/Marcos-Rangel-Zanoni/Job-Rotation/blob/main/4.py "> Lógica EX4 </a>
 
 
 ## 5) Escreva um programa que inverta os caracteres de um string.
@@ -38,4 +45,4 @@
 
 ## b) Evite usar funções prontas, como, por exemplo, reverse;
 
- 
+### <a href="https://github.com/Marcos-Rangel-Zanoni/Job-Rotation/blob/main/5.py "> Lógica EX5 </a> 
